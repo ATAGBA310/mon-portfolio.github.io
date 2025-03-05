@@ -13,7 +13,7 @@ Ce repository contient mon portfolio en ligne, où je présente mes compétences
 - SQL
 
 ## Comment accéder à mon portfolio
-1. Rendez-vous sur le [lien de mon portfolio](https://ton-utilisateur.github.io/mon-portfolio/)
+1. Rendez-vous sur le [lien de mon portfolio](https://atagba310.github.io/mon-portfolio.github.io/)
 2. Explorez mes projets d’analyse de données, mes visualisations interactives, et mon expérience en data science.
 
 ## Objectif
